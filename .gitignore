@@ -1,4 +1,4 @@
 test*
-*.pvc
+*.pyc
 *.log
 
